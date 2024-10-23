@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.portfolio {
+    color: deeppink;
+    background-color: 
+}
+h2 {
+    color: aliceblue;
+    background-color: deeppink
+    
+}
+h3 {
+    font-size: 30px;
+    color: deeppink;
+    background-color: aliceblue
+}
+img {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+body {
+    background-image: url('https://i.pinimg.com/enabled_lo/236x/2f/71/3f/2f713f46cc2532f845a7672318564c79.jpg') ;
+}
